@@ -11,6 +11,5 @@ streamlit-folium>=0.7.0
 plotly>=5.9.0
 joblib>=1.1.0
 matplotlib>=3.5.0
-fiona>=1.8.21
 pyproj>=3.3.0
 scipy>=1.8.0
